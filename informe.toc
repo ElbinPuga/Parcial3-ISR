@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}Introducción}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}ZMROBO}{6}{chapter.2}%
+\contentsline {chapter}{\numberline {3}ROBOSIM}{7}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}Características}{7}{subsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.0.2}Instalación de la plataforma}{8}{subsection.3.0.2}%
+\contentsline {subsection}{\numberline {3.0.3}Interfaz de Usuario}{10}{subsection.3.0.3}%
+\contentsline {subsection}{\numberline {3.0.4}Opciones disponibles}{11}{subsection.3.0.4}%
+\contentsline {subsection}{\numberline {3.0.5}Ventajas y Desventajas}{19}{subsection.3.0.5}%
+\contentsline {subsection}{\numberline {3.0.6}Aplicación}{20}{subsection.3.0.6}%
+\contentsline {subsection}{\numberline {3.0.7}Costos}{21}{subsection.3.0.7}%
+\contentsline {subsection}{\numberline {3.0.8}Comparación de RoboSim y RoboDK}{22}{subsection.3.0.8}%
+\contentsline {chapter}{\numberline {4}Conclusiones}{23}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Consideraciones Finales}{24}{chapter.5}%
+\contentsline {chapter}{Bibliografía}{24}{chapter.5}%
